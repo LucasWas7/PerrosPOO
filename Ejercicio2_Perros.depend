@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1408706616 source:g:\lucaswas\progra 1\programacion orientada a objetos\ejercicio2_perros\main.cpp
+	<iostream>
+	"Perro.h"
+
+1408705978 g:\lucaswas\progra 1\programacion orientada a objetos\ejercicio2_perros\perro.h
+	<iostream>
+
+1408705978 source:g:\lucaswas\progra 1\programacion orientada a objetos\ejercicio2_perros\perro.cpp
+	"Perro.h"
+	<newconio.h>
+
+1408723978 source:e:\lucaswas\progra 1\programacion orientada a objetos\ejercicio2_perros\perro.cpp
+	"Perro.h"
+	<newconio.h>
+
+1408723978 e:\lucaswas\progra 1\programacion orientada a objetos\ejercicio2_perros\perro.h
+	<iostream>
+
+1408724616 source:e:\lucaswas\progra 1\programacion orientada a objetos\ejercicio2_perros\main.cpp
+	<iostream>
+	"Perro.h"
+
